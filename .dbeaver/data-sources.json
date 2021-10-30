@@ -1,0 +1,30 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-17cd30bba73-5dfe7711e005eb03": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "DBTurismoTierraMedia.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\EclipseProjectsEnterprise\\turismoTierraMedia\\db\\DBTurismoTierraMedia.db",
+				"url": "jdbc:sqlite:C:\\EclipseProjectsEnterprise\\turismoTierraMedia\\db\\DBTurismoTierraMedia.db",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}

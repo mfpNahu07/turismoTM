@@ -1,0 +1,5 @@
+Este es el itinerario de Sam
+Atraccion Mordor tiene un costo de 25 monedas, es de tipo Aventura, y se debe disponer de 3.0hs para recorrerla. Tiene un cupo de 3 personas
+Atraccion Bosque Negro tiene un costo de 3 monedas, es de tipo Aventura, y se debe disponer de 4.0hs para recorrerla. Tiene un cupo de 11 personas
+El monto total por este itinerario es: 22
+El tiempo requerido para cumplir con el itinerario es: 7.0hs.

@@ -1,0 +1,4 @@
+Este es el itinerario de Gandalf
+Atraccion Parque San Carlos tiene un costo de 50 monedas, es de tipo Paisaje, y se debe disponer de 5.0hs para recorrerla. Tiene un cupo de 5 personas
+El monto total por este itinerario es: 40
+El tiempo requerido para cumplir con el itinerario es: 5.0hs.
